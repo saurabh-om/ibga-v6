@@ -87,7 +87,7 @@ body.ibga{margin:0;background:var(--color-bg);color:var(--color-text);font:400 v
   .hd-wa span{display:none}
   .hd-wa{width:48px;height:48px;justify-content:center}
 }
-@media (max-width:480px){.hd-act .btn{display:none}.hd-logo img{height:36px}.hd-in{height:72px}}
+@media (max-width:480px){.hd-act .btn{display:none}.hd-logo img{height:44px}.hd-in{height:72px}}
 
 /* Sticky booking dock (mobile, after the first scroll) */
 .dock{display:none}

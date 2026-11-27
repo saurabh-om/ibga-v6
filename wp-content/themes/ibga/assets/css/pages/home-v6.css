@@ -120,7 +120,7 @@ body.page-home-v6{background:#fff;color:var(--ink6);overflow-x:hidden;font-famil
 @media (max-width:767px){.page-home-v6 .dock.h6-btn{display:flex}}
 @media (max-width:1240px){.page-home-v6 .h6-nav ul{gap:22px}.page-home-v6 .h6-bar{gap:18px}.page-home-v6 .h6-search-b{display:none}}
 @media (max-width:1140px){.page-home-v6 .h6-nav{display:none}.page-home-v6 .h6-hd .hd-act{margin-left:auto;gap:8px}.page-home-v6 .h6-hd .hd-tg{display:grid}}
-@media (max-width:767px){.page-home-v6 .h6-hd-cta{display:none}.page-home-v6 .h6-bar{height:72px}.page-home-v6 .h6-hd .hd-logo img{height:40px}}
+@media (max-width:767px){.page-home-v6 .h6-hd-cta{display:none}.page-home-v6 .h6-bar{height:72px}.page-home-v6 .h6-hd .hd-logo img{height:44px}}
 
 /* ---------- Hero ---------- */
 .page-home-v6 .h6{position:relative;padding:112px 0 clamp(90px,10vw,150px);overflow:hidden;background:linear-gradient(180deg,#F5F8FF 0%,#fff 60%)}
